@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url([https://i.imgur.com/j1Z6HVc.jpg](https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/refs/heads/master/Themes/GGO_Kirito/templates/just_kirito_cyan/themebackground.j);
 
   /*
     Main Theme Color
